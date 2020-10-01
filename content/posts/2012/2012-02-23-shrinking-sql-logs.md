@@ -1,16 +1,16 @@
 ---
-author: Jacob Tomlinson
-date: 2012-02-23T00:00:00+00:00
-categories:
+Author: Jacob Tomlinson
+Date: 2012-02-23T00:00:00+00:00
+Categories:
   - Web
   - Development
-tags:
+Tags:
   - Databases
   - SQL
   - Storage
-thumbnail: database
-title: Shrinking SQL logs
-aliases:
+Thumbnail: database
+Title: Shrinking SQL logs
+Aliases:
   - /2012/02/23/shrinking-sql-logs/
 ---
 
